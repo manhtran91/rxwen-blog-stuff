@@ -4,7 +4,7 @@ List common programming and debugging tools on windows and linux.
 
 
 = Details =
-|| || Windows || Linux ||
+|| || *Windows* || *Linux* ||
 || C Compiler || cl || gcc ||
 || C++ Compiler || cl || g++ ||
 || Linker || link || ld ||
@@ -14,3 +14,4 @@ List common programming and debugging tools on windows and linux.
 || obj File Viewer ||  || objdump ||
 || Network Scanner || nmap || nmap || 
 || Network Sniffer || wireshark || wireshark ||
+|| Memory Leak Detector || umdh || valgrind ||
