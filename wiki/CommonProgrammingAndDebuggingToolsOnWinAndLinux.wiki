@@ -1,0 +1,16 @@
+= Introduction =
+
+List common programming and debugging tools on windows and linux. 
+
+
+= Details =
+|| || Windows || Linux ||
+|| C Compiler || cl || gcc ||
+|| C++ Compiler || cl || g++ ||
+|| Linker || link || ld ||
+|| Debugger || windbg/cdb || gdb ||
+|| Symbol Viewer || dumpbin || nm ||
+|| lib Dependency Viewer|| dependencywalker || ldd ||
+|| obj File Viewer ||  || objdump ||
+|| Network Scanner || nmap || nmap || 
+|| Network Sniffer || wireshark || wireshark ||
