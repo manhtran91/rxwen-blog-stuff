@@ -2,7 +2,7 @@
 
 = Introduction =
 
-List common programming and debugging tools on windows and linux. 
+List commonly used programming and debugging tools on windows and linux, based on equivalence
 
 
 = Details =
