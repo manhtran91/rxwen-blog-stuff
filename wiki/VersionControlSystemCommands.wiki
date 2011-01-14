@@ -14,3 +14,4 @@ List frequently used commands of svn, git and mercurial
 || || || git pull || hg pull ||
 || || svn branch || git branch || hg branch || branch is conceptually different in svn and git ||
 || || svn revert file || git checkout file || hg revert file ||
+|| || || git daemon || hg serve ||
