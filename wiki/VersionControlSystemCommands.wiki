@@ -6,7 +6,6 @@ List frequently used commands of svn, git and mercurial
 
 = Details =
 
-Add your content here.  Format your content with:
 || || svn (subversion) || git || mercurial||
 || || svn checkout url || git clone url || hg clone url ||
 || || svn update || git checkout HEAD || hg update ||
