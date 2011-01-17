@@ -12,6 +12,7 @@ List frequently used commands of svn, git and mercurial
 || || svn commit || git commit -a / git add file_list; git commit || hg commit ||
 || || || git push || hg push ||
 || || || git pull || hg pull ||
-|| || svn branch || git branch || hg branch || branch is conceptually different in svn and git ||
+|| || svn copy src dst || git branch branch_name || ||
+|| || svn merge || git merge || hg merge ||
 || || svn revert file || git checkout file || hg revert file ||
 || || || git daemon || hg serve ||
