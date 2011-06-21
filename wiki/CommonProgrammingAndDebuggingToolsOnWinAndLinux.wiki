@@ -7,14 +7,14 @@ List commonly used programming and debugging tools on windows and linux, based o
 
 = Details =
 || || *Windows* || *Linux* ||
-|| C Compiler || cl || gcc ||
-|| C++ Compiler || cl || g++ ||
-|| Linker || link || ld ||
+|| C Compiler || [http://msdn.microsoft.com/en-us/library/wk21sfcf.aspx cl] || gcc ||
+|| C++ Compiler || [http://msdn.microsoft.com/en-us/library/wk21sfcf.aspx cl] || g++ ||
+|| Linker || [http://msdn.microsoft.com/en-us/library/t2fck18t.aspx link] || [http://linux.die.net/man/1/ld ld] ||
 || Debugger || windbg/cdb || gdb ||
 || Symbol Viewer || || nm ||
-|| lib Dependency Viewer|| dependencywalker || ldd ||
+|| lib Dependency Viewer|| [http://www.dependencywalker.com/ dependencywalker] || [http://linux.die.net/man/1/ldd ldd] ||
 || address Converter || [http://code.google.com/p/winaddr2line/ winaddr2line] || addr2line || Convert an address to source file name and line number with the help of symbol ||
-|| obj File Viewer || dumpbin || objdump ||
+|| obj File Viewer || [http://msdn.microsoft.com/en-us/library/c1h23y6c.aspx dumpbin] || [http://linux.die.net/man/1/objdump objdump] ||
 || Network Scanner || nmap || nmap || 
 || Network Sniffer || wireshark || wireshark ||
 || Memory Leak Detector || umdh || valgrind ||
