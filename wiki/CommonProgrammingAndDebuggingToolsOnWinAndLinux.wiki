@@ -7,8 +7,8 @@ List commonly used programming and debugging tools on windows and linux, based o
 
 = Details =
 || || *Windows* || *Linux* ||
-|| C Compiler || [http://msdn.microsoft.com/en-us/library/wk21sfcf.aspx cl] || gcc ||
-|| C++ Compiler || [http://msdn.microsoft.com/en-us/library/wk21sfcf.aspx cl] || g++ ||
+|| C Compiler || [http://msdn.microsoft.com/en-us/library/wk21sfcf.aspx cl] || [http://gcc.gnu.org/onlinedocs/ gcc] ||
+|| C++ Compiler || [http://msdn.microsoft.com/en-us/library/wk21sfcf.aspx cl] || [http://linux.die.net/man/1/g++ g++] ||
 || Linker || [http://msdn.microsoft.com/en-us/library/t2fck18t.aspx link] || [http://linux.die.net/man/1/ld ld] ||
 || Debugger || [http://msdn.microsoft.com/en-us/library/ff540561(VS.85).aspx windbg/cdb] || [http://sourceware.org/gdb/current/onlinedocs/gdb/ gdb] ||
 || Symbol Viewer || dumpbin || nm ||
