@@ -6,14 +6,14 @@ List commonly used programming and debugging tools on windows and linux, based o
 
 
 = Details =
-|| || *Windows* || *Linux* ||
+|| || *Windows* || *Linux* || *Mac OS* ||
 || C Compiler || [http://msdn.microsoft.com/en-us/library/wk21sfcf.aspx cl] || [http://gcc.gnu.org/onlinedocs/ gcc] ||
 || C++ Compiler || [http://msdn.microsoft.com/en-us/library/wk21sfcf.aspx cl] || [http://linux.die.net/man/1/g++ g++] ||
 || Linker || [http://msdn.microsoft.com/en-us/library/t2fck18t.aspx link] || [http://linux.die.net/man/1/ld ld] ||
 || Debugger || [http://msdn.microsoft.com/en-us/library/ff540561(VS.85).aspx windbg/cdb] || [http://sourceware.org/gdb/current/onlinedocs/gdb/ gdb] ||
 || Symbol Viewer || dumpbin || nm ||
-|| lib Dependency Viewer|| [http://www.dependencywalker.com/ dependencywalker] || [http://linux.die.net/man/1/ldd ldd] ||
-|| address Converter || [http://code.google.com/p/winaddr2line/ winaddr2line] || [http://linux.about.com/library/cmd/blcmdl1_addr2line.htm addr2line] || Convert an address to source file name and line number with the help of symbol ||
+|| lib Dependency Viewer|| [http://www.dependencywalker.com/ dependencywalker] || [http://linux.die.net/man/1/ldd ldd] || [http://developer.apple.com/library/mac/#documentation/Darwin/Reference/ManPages/man1/otool.1.html otool] ||
+|| address Converter || [http://code.google.com/p/winaddr2line/ winaddr2line] || [http://linux.about.com/library/cmd/blcmdl1_addr2line.htm addr2line] || || Convert an address to source file name and line number with the help of symbol ||
 || obj File Viewer || [http://msdn.microsoft.com/en-us/library/c1h23y6c.aspx dumpbin] || [http://linux.die.net/man/1/objdump objdump] ||
 || Network Scanner || nmap || nmap || 
 || Network Sniffer || wireshark || wireshark ||
