@@ -15,4 +15,5 @@ List frequently used commands of svn, git and mercurial
 || || svn copy src dst || git branch branch_name || [http://mercurial.selenic.com/wiki/Branch hg commit] (in the case where a commit causes a parent to have more than one child) ||
 || || svn merge || git merge || hg merge ||
 || || svn revert file || git checkout file || hg revert file ||
+|| || svn export || git archive || hg archive ||
 || || || git daemon || hg serve ||
