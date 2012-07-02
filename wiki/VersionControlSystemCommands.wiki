@@ -17,3 +17,4 @@ List frequently used commands of svn, git and mercurial
 || || svn revert file || git checkout file || hg revert file ||
 || || svn export || git archive || hg archive ||
 || || || git daemon || hg serve ||
+|| || || git log origin/master..HEAD || hg outgoing ||
